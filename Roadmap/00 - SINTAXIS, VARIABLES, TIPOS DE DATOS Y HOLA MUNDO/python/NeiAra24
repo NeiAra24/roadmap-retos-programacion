@@ -1,0 +1,14 @@
+#https://www.python.org/
+#Comentario una linea
+"""
+comentario de varias lineas 
+"""
+‘‘‘
+otro comentario de varias lineas
+‘‘‘
+Mi variable=Primera variable
+Int= 1
+float= 1.5
+Bool= True-False 
+String= "Cadena de texto"
+Print="(HOLA PYTHON)"
